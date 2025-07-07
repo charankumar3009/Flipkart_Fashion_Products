@@ -1,6 +1,6 @@
 # Explanation of Power BI Visuals (as per Dashboard)
 
-![image1](images/powerbi_dashboard.png)
+![Dashboard Overview](images/powerbi_dashboard.png)
 
 ## 1. Header: Flipkart Fashion Analytics Dashboard
 **Type:** Text  
